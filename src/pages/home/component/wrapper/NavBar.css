@@ -1,0 +1,24 @@
+.btn-nav {
+  background-color: rgb(29, 29, 235);
+  color: aliceblue;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: 3px 4px 20px black;
+}
+.boder {
+  padding: 5px;
+  border: 1px solid wheat;
+  border-radius: 10px;
+}
+.nav-2 .icon {
+  margin-right: 20px;
+}
+.nav-2 a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.nav-2 a:hover,
+a:active {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: blueviolet;
+}

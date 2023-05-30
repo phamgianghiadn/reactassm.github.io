@@ -1,0 +1,27 @@
+.imgsearch img{
+  width: 95%;
+  height: 200px;
+  border-radius: 10px;
+}
+.showsearch{
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: 1px solid gray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.bg-success{
+  border-radius: 15px;
+  padding:  5px;
+}
+.butonseach button{
+
+  width: 100%;
+  color: aliceblue;
+  border-radius: 10px;
+  background-color: blue;
+}
+.butonseach{
+display: grid;
+column-gap: 10px;
+}

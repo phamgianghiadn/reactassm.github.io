@@ -1,0 +1,13 @@
+.boderseach{
+  background-color: rgb(166, 210, 231);
+  padding-top: 20px;
+  border-radius: 10px;
+}
+.boderseach button{
+  margin-top: 5%;
+  width: 100%;
+  color: aliceblue;
+  background-color: rgb(74, 74, 218);
+  border-radius: 5px;
+  padding: 7px;
+}

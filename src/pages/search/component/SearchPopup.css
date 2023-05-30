@@ -1,0 +1,30 @@
+.inputhead input{
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+}
+.inputmain{
+ display: flex;
+justify-content: space-between;
+margin-top: 20px;
+color: rgb(88, 91, 94);
+}
+.inputmain input{
+  width: 30%;
+  border-radius: 10px;
+  
+}
+.seachiput{
+  width: 100%;
+  border-radius: 10px;
+  background-color: rgb(27, 52, 194);
+  box-shadow: 2px 3px 20px gray;
+  color: aliceblue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 40px;
+  
+}
+.bg-warning{
+  border-radius: 10px;
+}

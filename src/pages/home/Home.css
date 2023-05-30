@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+img{
+  box-shadow: 3px 3px 20px rgb(65, 62, 62);
+}
+.bgnav{
+  background-color: rgb(7, 7, 107);
+}

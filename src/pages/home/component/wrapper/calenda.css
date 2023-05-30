@@ -1,0 +1,8 @@
+.box-calendar .calendarElement {
+  background-color: rgb(255, 255, 228);
+  position: absolute;
+  left: 0;
+  top: 150%;
+  border-radius: 5px;
+}
+
